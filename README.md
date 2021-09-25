@@ -9,8 +9,10 @@ https://youtu.be/WiommypiiaA
 
 Target
 
+
  ``
-    local hunting = {
+
+local hunting = {
         `ig_hunter`
     }    
 
