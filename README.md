@@ -2,5 +2,5 @@
 Nopixel Hunting Converted To QB
 https://discord.gg/wQBuB3U5Ym
 
-Previvew:
+Preview:
 https://youtu.be/WiommypiiaA
