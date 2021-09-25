@@ -7,6 +7,28 @@ https://discord.gg/wQBuB3U5Ym
 Preview:
 https://youtu.be/WiommypiiaA
 
+Target
+
+ ``-- Hunting
+    local hunting = {
+        `ig_hunter`
+    }    
+
+    AddTargetModel(hunting, {
+        options = {
+            {
+                event = "Dox-shops:client:openShop",
+                icon = "fas fa-shopping-cart",
+                label = "Open Shop",
+            },
+            {
+                event = "Dox-hunting:payammo",
+                icon = "fas fa-circle",
+                label = "Purchase Bullets $500",
+            },
+        },
+        distance = 2.5
+    })
 
 
 Add to shared
