@@ -10,9 +10,8 @@ https://youtu.be/WiommypiiaA
 Target
 
 
- ``
-
-local hunting = {
+```
+    local hunting = {
         `ig_hunter`
     }    
 
@@ -31,7 +30,7 @@ local hunting = {
         },
         distance = 2.5
     })
-```
+
 
 Add to shared
 ```	
